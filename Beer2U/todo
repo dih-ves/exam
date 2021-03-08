@@ -1,0 +1,6 @@
+1. aplicar padroes de projeto na construcao dessa calculadora
+  [] > strategy
+  [] > factory method
+2. aplicar um feature toggle na calculadora
+  [] > a calculadora vai ler um arquivo de configuracao, para determinar se ela loga operacao em detalhes ou não
+3. conceitos de TDD

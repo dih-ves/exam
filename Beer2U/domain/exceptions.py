@@ -1,0 +1,2 @@
+class ArgumentoInvalidException(Exception):
+    pass
